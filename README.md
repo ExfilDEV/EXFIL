@@ -1,4 +1,4 @@
-### *Looking for download instructions? Click [Here]( or scroll down.*
+### *Looking for download instructions? Click [Here](https://github.com/ExfilDEV/EXFIL/blob/main/README.md#how-to-download) or scroll down.*
 
 # What is this?
 This is a port/remake of EXFIL, a ROBLOX game me and my team were making. (Obviously, we switched to Unity instead.) The entire game is going to be changed, and it will be a LOT more interesting and fun.
