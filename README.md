@@ -20,7 +20,7 @@ Beta testing is only available for certain members, but please DM me on discord 
 If you are new to Github, this should help you.
 
 ## Source Code
-To download the source code, go to https://github.com/ExfilDEV/EXFIL.git or click the "<> Code" button, and then "Download Zip" (or whatever you would like to use to download the code.)
+To download the source code, go to [this page](https://github.com/ExfilDEV/EXFIL.git) or click the "<> Code" button, and then "Download Zip" (or whatever you would like to use to download the code.)
 #### Source Code with Git
 If you would like to download the source code with Git, make sure you have Git installed, open git bash or cmd, change your directory to the folder you'd like to download the code to, and then enter
 ```
