@@ -8,7 +8,7 @@ EXFIL was originally a ROBLOX version of Escape from Tarkov, but has now evolved
 **Anything shown here is not final, and we can change it at any time.**
 
 # Roadmap
-Our roadmap is currently under the developer-only section, however we have a public version, found here: https://github.com/orgs/ExfilDEV/projects/3
+Our roadmap is currently under the developer-only section, however we have a public version, found [here](https://github.com/orgs/ExfilDEV/projects/3)
 
 The public version will be updated less than the beta or developer versions.
 Teasers are posted on the MissinginAction discord server, check the description of the repository or orginization to join.
