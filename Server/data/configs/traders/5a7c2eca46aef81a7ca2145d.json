@@ -34,7 +34,7 @@
 	},
 	"gridHeight": 160,
 	"loyalty": {
-		"currentLevel": 1337,
+		"currentLevel": 1,
 		"currentStanding": 0,
 		"currentSalesSum": 0,
 		"loyaltyLevels": {
@@ -44,18 +44,18 @@
 				"minStanding": 0
 			},
 			"1": {
-				"minLevel": 20,
-				"minSalesSum": 1000000,
+				"minLevel": 5,
+				"minSalesSum": 10000,
 				"minStanding": 0.15
 			},
 			"2": {
-				"minLevel": 30,
-				"minSalesSum": 1600000,
+				"minLevel": 10,
+				"minSalesSum": 15000,
 				"minStanding": 0.3
 			},
 			"3": {
-				"minLevel": 40,
-				"minSalesSum": 2500000,
+				"minLevel": 20,
+				"minSalesSum": 100000,
 				"minStanding": 0.6
 			}
 		}

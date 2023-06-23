@@ -17,7 +17,7 @@
 	"supply_next_time": 1551040000,
 	"repair": {
 		"availability": true,
-		"quality": "1.2",
+		"quality": "0.9",
 		"excluded_id_list": [],
 		"excluded_category": [],
 		"currency": "5449016a4bdc2d6f028b456f",
@@ -34,9 +34,9 @@
 	},
 	"gridHeight": 500,
 	"loyalty": {
-		"currentLevel": 1337,
-		"currentStanding": 0,
-		"currentSalesSum": 7916,
+		"currentLevel": 1,
+		"currentStanding": 1,
+		"currentSalesSum": 0,
 		"loyaltyLevels": {
 			"0": {
 				"minLevel": 1,
@@ -44,18 +44,18 @@
 				"minStanding": 0
 			},
 			"1": {
-				"minLevel": 15,
-				"minSalesSum": 1000000,
+				"minLevel": 2,
+				"minSalesSum": 10000,
 				"minStanding": 0.2
 			},
 			"2": {
-				"minLevel": 22,
-				"minSalesSum": 1500000,
+				"minLevel": 5,
+				"minSalesSum": 15000,
 				"minStanding": 0.35
 			},
 			"3": {
-				"minLevel": 33,
-				"minSalesSum": 2300000,
+				"minLevel": 10,
+				"minSalesSum": 100000,
 				"minStanding": 0.5
 			}
 		}

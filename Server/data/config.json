@@ -20,7 +20,7 @@
             "bossBully": 1,
             "bullyFollowers": 5,
             "marksman": 10,
-            "pmcBot": 10,
+            "pmcBot": 20,
             "scav": 30
         },
         "spawn": {

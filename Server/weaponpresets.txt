@@ -1,0 +1,259 @@
+# M4 Meta
+
+						"_id": "ed70b5d5-d83d-447b-a639-637e16245036",
+						"_tpl": "5447a9cd4bdc2dbd208b4567",
+						"parentId": "571f3906245977397064487b",
+						"slotId": "FirstPrimaryWeapon",
+						"upd": {
+							"Durability": 98.07547,
+							"MaxDurability": 100
+						}
+					},
+					{
+						"_id": "ed70b5d5-d83d-447b-a639-637e16245036",
+						"_tpl": "5447a9cd4bdc2dbd208b4567",
+						"parentId": "571f3906245977397064487b",
+						"slotId": "SecondPrimaryWeapon",
+						"upd": {
+							"Durability": 99.62509,
+							"MaxDurability": 100
+						}
+					},
+					{
+						"_id": "4975805c-75bc-4e09-85fb-3a19d7e5e587",
+						"_tpl": "56d59856d2720bd8418b456a",
+						"parentId": "571f3906245977397064487b",
+						"slotId": "Holster",
+						"upd": {
+							"Durability": 100,
+							"MaxDurability": 100
+						}
+					},
+					{
+						"_id": "913f1250-f8f4-4073-aaed-f041f1700d8d",
+						"_tpl": "55d4b9964bdc2d1d4e8b456e",
+						"parentId": "ed70b5d5-d83d-447b-a639-637e16245036",
+						"slotId": "mod_pistol_grip"
+					},
+					{
+						"_id": "d2d8c487-45bb-4777-a64c-f2a90551750b",
+						"_tpl": "544a37c44bdc2d25388b4567",
+						"parentId": "ed70b5d5-d83d-447b-a639-637e16245036",
+						"slotId": "mod_magazine"
+					},
+					{
+						"_id": "87f1c3a7-2565-4bc2-ab75-3e940c1e2885",
+						"_tpl": "55d355e64bdc2d962f8b4569",
+						"parentId": "ed70b5d5-d83d-447b-a639-637e16245036",
+						"slotId": "mod_reciever"
+					},
+					{
+						"_id": "a73ad04c-5dca-4949-8812-6a0d39feca7b",
+						"_tpl": "5649be884bdc2d79388b4577",
+						"parentId": "ed70b5d5-d83d-447b-a639-637e16245036",
+						"slotId": "mod_stock"
+					},
+					{
+						"_id": "7b73c2d6-fb08-4911-9265-228c19af4495",
+						"_tpl": "55d44fd14bdc2d962f8b456e",
+						"parentId": "ed70b5d5-d83d-447b-a639-637e16245036",
+						"slotId": "mod_charge"
+					},
+					{
+						"_id": "develop17",
+						"_tpl": "54527a984bdc2d4e668b4567",
+						"parentId": "ed70b5d5-d83d-447b-a639-637e16245036",
+						"slotId": "patron_in_weapon"
+					},
+					{
+						"_id": "913f1250-f8f4-4073-aaed-f041f1700d8d",
+						"_tpl": "55d4b9964bdc2d1d4e8b456e",
+						"parentId": "ed70b5d5-d83d-447b-a639-637e16245036",
+						"slotId": "mod_pistol_grip"
+					},
+					{
+						"_id": "43837923-dbcf-4f28-b976-6b47aa98040b",
+						"_tpl": "544a37c44bdc2d25388b4567",
+						"parentId": "ed70b5d5-d83d-447b-a639-637e16245036",
+						"slotId": "mod_magazine"
+					},
+					{
+						"_id": "87f1c3a7-2565-4bc2-ab75-3e940c1e2885",
+						"_tpl": "55d355e64bdc2d962f8b4569",
+						"parentId": "ed70b5d5-d83d-447b-a639-637e16245036",
+						"slotId": "mod_reciever"
+					},
+					{
+						"_id": "a73ad04c-5dca-4949-8812-6a0d39feca7b",
+						"_tpl": "5649be884bdc2d79388b4577",
+						"parentId": "ed70b5d5-d83d-447b-a639-637e16245036",
+						"slotId": "mod_stock"
+					},
+					{
+						"_id": "7b73c2d6-fb08-4911-9265-228c19af4495",
+						"_tpl": "55d44fd14bdc2d962f8b456e",
+						"parentId": "ed70b5d5-d83d-447b-a639-637e16245036",
+						"slotId": "mod_charge"
+					},
+					{
+						"_id": "Savage715",
+						"_tpl": "54527a984bdc2d4e668b4567",
+						"parentId": "ed70b5d5-d83d-447b-a639-637e16245036",
+						"slotId": "patron_in_weapon"
+					}
+
+# AK
+
+					{
+						"_id": "1687463842441295003",
+						"_tpl": "5644bd2b4bdc2d3b4c8b4572",
+						"parentId": "hideout",
+						"slotId": "hideout",
+						"location": {
+							"x": 7,
+							"y": 7,
+							"r": "Vertical"
+						},
+						"upd": {
+							"Durability": 100,
+							"MaxDurability": 100
+						}
+					},
+											"_id": "1687463842749946148",
+						"_tpl": "5648b0744bdc2d363b8b4578",
+						"parentId": "1687463842441295003",
+						"slotId": "mod_handguard"
+					},
+					{
+						"_id": "1687463842628038509",
+						"_tpl": "5649aa744bdc2ded0b8b457e",
+						"parentId": "1687463842441295003",
+						"slotId": "mod_muzzle"
+					},
+					{
+						"_id": "1687463842627933170",
+						"_tpl": "5649ad3f4bdc2df8348b4585",
+						"parentId": "1687463842441295003",
+						"slotId": "mod_pistol_grip"
+					},
+					{
+						"_id": "1687463842377374590",
+						"_tpl": "5649af094bdc2df8348b4586",
+						"parentId": "1687463842441295003",
+						"slotId": "mod_reciever"
+					},
+					{
+						"_id": "1687463842383017316",
+						"_tpl": "5649b0544bdc2d1b2b8b458a",
+						"parentId": "1687463842441295003",
+						"slotId": "mod_sight_rear"
+					},
+					{
+						"_id": "1687463842399763511",
+						"_tpl": "5649b1c04bdc2d16268b457c",
+						"parentId": "1687463842441295003",
+						"slotId": "mod_stock"
+					},
+					{
+						"_id": "1687463842148139637",
+						"_tpl": "564ca99c4bdc2d16268b4589",
+						"parentId": "1687463842441295003",
+						"slotId": "mod_magazine"
+					}
+
+# MR-133 (mp-133) meta
+
+					{
+						"_id": "1622580296141380398",
+						"_tpl": "54491c4f4bdc2db1078b4568",
+						"parentId": "hideout",
+						"slotId": "hideout",
+						"location": {
+							"x": 4,
+							"y": 6,
+							"r": "Horizontal"
+						},
+						"upd": {
+							"Durability": 100,
+							"MaxDurability": 100
+						}
+					},
+					{
+						"_id": "1613385926277028918",
+						"_tpl": "54491c4f4bdc2db1078b4568",
+						"parentId": "hideout",
+						"slotId": "hideout",
+						"location": {
+							"x": 3,
+							"y": 21,
+							"r": "Horizontal"
+						},
+						"upd": {
+							"Durability": 99.98889,
+							"MaxDurability": 100
+						}
+					},
+					{
+						"_id": "1613385926277028918",
+						"_tpl": "54491c4f4bdc2db1078b4568",
+						"parentId": "20e654b7-1d46-4899-bd95-f3ad3e2a90b6",
+						"slotId": "main",
+						"location": {
+							"x": 0,
+							"y": 1,
+							"r": "Horizontal"
+						},
+						"upd": {
+							"Durability": 100,
+							"MaxDurability": 100
+						}
+					}
+
+# P226R
+
+					{
+						"_id": "4975805c-75bc-4e09-85fb-3a19d7e5e587",
+						"_tpl": "56d59856d2720bd8418b456a",
+						"parentId": "571f3906245977397064487b",
+						"slotId": "Holster",
+						"upd": {
+							"Durability": 100,
+							"MaxDurability": 100
+						}
+					},
+					{
+						"_id": "1c6f2d21-9e91-41a0-ad50-8c075637cde5",
+						"_tpl": "56d5a1f7d2720bb3418b456a",
+						"parentId": "4975805c-75bc-4e09-85fb-3a19d7e5e587",
+						"slotId": "mod_barrel"
+					},
+					{
+						"_id": "cc9fbc3b-983f-43be-b410-608d3c67678b",
+						"_tpl": "56d5a2bbd2720bb8418b456a",
+						"parentId": "4975805c-75bc-4e09-85fb-3a19d7e5e587",
+						"slotId": "mod_pistol_grip"
+					},
+					{
+						"_id": "c2ded536-03f0-453a-824b-7a12aa20901d",
+						"_tpl": "56d5a407d2720bb3418b456b",
+						"parentId": "4975805c-75bc-4e09-85fb-3a19d7e5e587",
+						"slotId": "mod_reciever"
+					},
+					{
+						"_id": "bd984cec-a5ec-4597-888c-32da1f51ae84",
+						"_tpl": "56d59948d2720bb7418b4582",
+						"parentId": "4975805c-75bc-4e09-85fb-3a19d7e5e587",
+						"slotId": "mod_magazine"
+					},
+					{
+						"_id": "dd2f39a2-2904-4890-b7bf-52eab1213edc",
+						"_tpl": "560d657b4bdc2da74d8b4572",
+						"parentId": "4975805c-75bc-4e09-85fb-3a19d7e5e587",
+						"slotId": "mod_tactical"
+					},
+					{
+						"_id": "develop3",
+						"_tpl": "56d59d3ad2720bdb418b4577",
+						"parentId": "4975805c-75bc-4e09-85fb-3a19d7e5e587",
+						"slotId": "patron_in_weapon"
+					}

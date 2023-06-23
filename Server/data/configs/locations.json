@@ -99,7 +99,7 @@
 						"slots_min": 3,
 						"slots_max": 3,
 						"SpawnPoints": "Scav_ZAV_04",
-						"BotSide": "Savage"
+						"BotSide": "Bear"
 					},
 					{
 						"time_min": 0,
@@ -107,7 +107,7 @@
 						"slots_min": 3,
 						"slots_max": 3,
 						"SpawnPoints": "Scav_OBSH_1",
-						"BotSide": "Savage"
+						"BotSide": "Usec"
 					},
 					{
 						"time_min": 0,
@@ -617,9 +617,9 @@
 							"Bear"
 						],
 						"Position": {
-							"x": -192.48,
-							"y": 2.53,
-							"z": -234.61
+							"x": -333.1,
+							"y": 2.40,
+							"z": -206.3
 						},
 						"Center": {
 							"x": 0,
@@ -727,9 +727,9 @@
 							"Bear"
 						],
 						"Position": {
-							"x": -234.23,
-							"y": 2.86,
-							"z": -151.66
+							"x": -206.30,
+							"y": 2.4,
+							"z": -333.10
 						},
 						"Center": {
 							"x": 0,
@@ -774,20 +774,28 @@
 				"filter_ex": [],
 				"waves": [
 					{
-						"time_min": 60,
-						"time_max": 70,
+						"time_min": 0,
+						"time_max": 30,
 						"slots_min": 12,
 						"slots_max":  20,
 						"SpawnPoints": "Scavspawn (11)",
 						"BotSide": "Savage"
 					},
 					{
-						"time_min": 60,
-						"time_max": 70,
+						"time_min": 5,
+						"time_max": 60,
 						"slots_min": 12,
 						"slots_max":  20,
 						"SpawnPoints": "ScavPMCspawn",
 						"BotSide": "Bear"
+					},
+					{
+						"time_min": 10,
+						"time_max": 60,
+						"slots_min": 12,
+						"slots_max":  20,
+						"SpawnPoints": "ScavPMCspawn (1)",
+						"BotSide": "Usec"
 					}
 				],
 				"limits": [],
@@ -796,8 +804,8 @@
 				"containers": null,
 				"Banners": [],
 				"MinPlayers": 1,
-				"MaxPlayers": 8,
-				"AveragePlayerLevel": 10,
+				"MaxPlayers": 40,
+				"AveragePlayerLevel": 30,
 				"AveragePlayTime": 60,
 				"Rules": "AvoidOwnPmc",
 				"SpawnAreas": [
@@ -1047,7 +1055,7 @@
 				]
 			},
 			"55f2d3fd4bdc2d5f408b4567": {
-				"Enabled": true,
+				"Enabled": false,
 				"Locked": false,
 				"Name": "hvh map",
 				"Description": "epic style",

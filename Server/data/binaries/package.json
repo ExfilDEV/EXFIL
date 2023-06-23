@@ -1,7 +1,7 @@
 {
-  "name": "EmuTarkov",
+  "name": "EXFIL",
   "version": "1.0.0",
-  "description": "EFT backend emu in suicide inducing language",
+  "description": "EFT backend emu in suicide inducing language, but with exfil.",
   "author": "polivilas",
   "main": "main.js",
   "repository": {

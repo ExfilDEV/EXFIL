@@ -577,10 +577,10 @@
                 "durabSpawnMin": 25,
                 "durabSpawnMax": 75,
                 "isFastReload": true,
-                "RecoilForceUp": 100,
-                "RecoilForceBack": 300,
+                "RecoilForceUp": 120,
+                "RecoilForceBack": 320,
                 "Convergence": 1.5,
-                "RecoilAngle": 90,
+                "RecoilAngle": 86,
                 "RecolDispersion": 25,
                 "bFirerate": 650,
                 "Ergonomics": 17,
@@ -619,7 +619,7 @@
                         "_proto": "55d4af244bdc2d962f8b4571"
                     }
                 ],
-                "CameraRecoil": 0.2,
+                "CameraRecoil": 0.3,
                 "ReloadMode": "ExternalMagazine",
                 "CenterOfImpact": 0,
                 "Velocity": 0,
@@ -3875,10 +3875,10 @@
                 "durabSpawnMin": 25,
                 "durabSpawnMax": 75,
                 "isFastReload": true,
-                "RecoilForceUp": 85,
-                "RecoilForceBack": 290,
+                "RecoilForceUp": 120,
+                "RecoilForceBack": 310,
                 "Convergence": 2,
-                "RecoilAngle": 90,
+                "RecoilAngle": 80,
                 "RecolDispersion": 25,
                 "bFirerate": 800,
                 "Ergonomics": 20,
@@ -3909,7 +3909,7 @@
                         "_proto": "55d4af244bdc2d962f8b4571"
                     }
                 ],
-                "CameraRecoil": 0.2,
+                "CameraRecoil": 0.3,
                 "ReloadMode": "ExternalMagazine",
                 "CenterOfImpact": 0.01,
                 "Velocity": 0,
@@ -4590,7 +4590,7 @@
                 "durabSpawnMin": 25,
                 "durabSpawnMax": 75,
                 "isFastReload": true,
-                "RecoilForceUp": 500,
+                "RecoilForceUp": 600,
                 "RecoilForceBack": 250,
                 "Convergence": 5,
                 "RecoilAngle": 85,
@@ -4635,7 +4635,7 @@
                         "_proto": "55d4af244bdc2d962f8b4571"
                     }
                 ],
-                "CameraRecoil": 0.05,
+                "CameraRecoil": 0.1,
                 "ReloadMode": "ExternalMagazine",
                 "CenterOfImpact": 0.3,
                 "Velocity": 0,
@@ -5051,8 +5051,8 @@
                 "LootExperience": 10,
                 "ExamineExperience": 10,
                 "HideEntrails": false,
-                "foodUseTime": 4,
-                "foodEffectType": "afterUse",
+                "foodUseTime": 6,
+                "foodEffectType": "duringUse",
                 "effects_health": {
                     "common": {
                         "value": 0,
@@ -5751,10 +5751,10 @@
                 "durabSpawnMin": 25,
                 "durabSpawnMax": 75,
                 "isFastReload": false,
-                "RecoilForceUp": 400,
-                "RecoilForceBack": 500,
+                "RecoilForceUp": 700,
+                "RecoilForceBack": 600,
                 "Convergence": 2.5,
-                "RecoilAngle": 90,
+                "RecoilAngle": 92,
                 "RecolDispersion": 15,
                 "bFirerate": 30,
                 "Ergonomics": 50,
@@ -5783,7 +5783,7 @@
                         "_proto": "55d4af244bdc2d962f8b4571"
                     }
                 ],
-                "CameraRecoil": 0.3,
+                "CameraRecoil": 0.5,
                 "ReloadMode": "InternalMagazine",
                 "CenterOfImpact": 0.01,
                 "Velocity": 0,
@@ -5834,8 +5834,8 @@
                         "_parent": "544a11ac4bdc2d470e8b456a",
                         "_props": {
                             "filters": [],
-                            "cellsH": 2,
-                            "cellsV": 2,
+                            "cellsH": 3,
+                            "cellsV": 3,
                             "maxCount": 0,
                             "maxWeight": 0
                         },
@@ -5844,8 +5844,8 @@
                 ],
                 "Slots": [],
                 "containType": [],
-                "sizeWidth": 2,
-                "sizeHeight": 2,
+                "sizeWidth": 3,
+                "sizeHeight": 3,
                 "isSecured": true,
                 "spawnTypes": "None",
                 "lootFilter": [],
@@ -6909,7 +6909,7 @@
                 "ShortName": "AWS",
                 "Description": "Crye Precision AWS",
                 "Weight": 1,
-                "BackgroundColor": "default",
+                "BackgroundColor": "blue",
                 "Width": 3,
                 "Height": 3,
                 "StackMaxSize": 1,
@@ -6981,7 +6981,7 @@
                         "_props": {
                             "filters": [],
                             "cellsH": 1,
-                            "cellsV": 1,
+                            "cellsV": 2,
                             "maxCount": 0,
                             "maxWeight": 0
                         },
@@ -7060,7 +7060,7 @@
                         "_props": {
                             "filters": [],
                             "cellsH": 4,
-                            "cellsV": 4,
+                            "cellsV": 5,
                             "maxCount": 0,
                             "maxWeight": 0
                         },
@@ -9485,8 +9485,8 @@
                 },
                 "StackObjectsCount": 1,
                 "NotShownInSlot": false,
-                "ExaminedByDefault": true,
-                "ExamineTime": 2,
+                "ExaminedByDefault": false,
+                "ExamineTime": 1,
                 "IsUnlootable": false,
                 "IsUndiscardable": false,
                 "IsUnsaleable": false,
@@ -9499,86 +9499,86 @@
                 "Grids": [
                     {
                         "_name": "1",
-                        "_id": "5732f13124597719ad692861",
-                        "_parent": "572b7adb24597762ae139821",
+                        "_id": "5648a6f44bdc2d3b4c8b4576",
+                        "_parent": "5648a69d4bdc2ded0b8b457b",
                         "_props": {
                             "filters": [],
                             "cellsH": 1,
                             "cellsV": 2,
-                            "maxCount": 1,
-                            "maxWeight": 1
+                            "maxCount": 0,
+                            "maxWeight": 3
                         },
                         "_proto": "55d329c24bdc2d892f8b4567"
                     },
                     {
                         "_name": "2",
-                        "_id": "5732f13324597719b55f50f8",
-                        "_parent": "572b7adb24597762ae139821",
+                        "_id": "5648a6f74bdc2d363b8b4576",
+                        "_parent": "5648a69d4bdc2ded0b8b457b",
                         "_props": {
                             "filters": [],
                             "cellsH": 1,
-                            "cellsV": 2,
-                            "maxCount": 1,
+                            "cellsV": 1,
+                            "maxCount": 0,
                             "maxWeight": 1
                         },
                         "_proto": "55d329c24bdc2d892f8b4567"
                     },
                     {
                         "_name": "3",
-                        "_id": "5732f13524597719b472d3fe",
-                        "_parent": "572b7adb24597762ae139821",
+                        "_id": "5648a6f94bdc2d16268b4577",
+                        "_parent": "5648a69d4bdc2ded0b8b457b",
                         "_props": {
                             "filters": [],
                             "cellsH": 1,
                             "cellsV": 1,
                             "maxCount": 0,
-                            "maxWeight": 0.25
+                            "maxWeight": 1
                         },
                         "_proto": "55d329c24bdc2d892f8b4567"
                     },
                     {
                         "_name": "4",
-                        "_id": "5732f13724597719bd403076",
-                        "_parent": "572b7adb24597762ae139821",
+                        "_id": "5648a6fc4bdc2df8348b457f",
+                        "_parent": "5648a69d4bdc2ded0b8b457b",
                         "_props": {
                             "filters": [],
                             "cellsH": 1,
                             "cellsV": 1,
                             "maxCount": 0,
-                            "maxWeight": 0.25
+                            "maxWeight": 1
                         },
                         "_proto": "55d329c24bdc2d892f8b4567"
                     },
                     {
                         "_name": "5",
-                        "_id": "5732f13b24597719af191441",
-                        "_parent": "572b7adb24597762ae139821",
+                        "_id": "5648a6ff4bdc2d91118b45a3",
+                        "_parent": "5648a69d4bdc2ded0b8b457b",
                         "_props": {
                             "filters": [],
                             "cellsH": 1,
-                            "cellsV": 2,
-                            "maxCount": 1,
+                            "cellsV": 1,
+                            "maxCount": 0,
                             "maxWeight": 1
                         },
                         "_proto": "55d329c24bdc2d892f8b4567"
                     },
                     {
                         "_name": "6",
-                        "_id": "5732f13e24597719b900f451",
-                        "_parent": "572b7adb24597762ae139821",
+                        "_id": "5648a7034bdc2d3d1c8b457c",
+                        "_parent": "5648a69d4bdc2ded0b8b457b",
                         "_props": {
                             "filters": [],
                             "cellsH": 1,
                             "cellsV": 2,
-                            "maxCount": 1,
-                            "maxWeight": 1
+                            "maxCount": 0,
+                            "maxWeight": 3
                         },
                         "_proto": "55d329c24bdc2d892f8b4567"
                     }
                 ],
                 "Slots": []
             },
-            "_proto": "5648a69d4bdc2ded0b8b457b"
+            "_proto": "544a5caa4bdc2d1a388b4568"
         },
         "566965d44bdc2d814c8b4571": {
             "_id": "566965d44bdc2d814c8b4571",
@@ -9600,8 +9600,8 @@
                 "Description": "Cap",
                 "Weight": 0.1,
                 "BackgroundColor": "default",
-                "Width": 2,
-                "Height": 2,
+                "Width": 1,
+                "Height": 1,
                 "StackMaxSize": 1,
                 "Rarity": "Common",
                 "SpawnChance": 50,
@@ -9644,8 +9644,8 @@
                 "Description": "Balaclava",
                 "Weight": 0.1,
                 "BackgroundColor": "default",
-                "Width": 2,
-                "Height": 2,
+                "Width": 1,
+                "Height": 1,
                 "StackMaxSize": 1,
                 "Rarity": "Rare",
                 "SpawnChance": 50,
@@ -9658,7 +9658,7 @@
                 "StackObjectsCount": 1,
                 "NotShownInSlot": false,
                 "ExaminedByDefault": true,
-                "ExamineTime": 2,
+                "ExamineTime": 0.2,
                 "IsUnlootable": false,
                 "IsUndiscardable": false,
                 "IsUnsaleable": false,
@@ -9932,7 +9932,7 @@
                         "_props": {
                             "filters": [],
                             "cellsH": 10,
-                            "cellsV": 20,
+                            "cellsV": 30,
                             "maxCount": 0,
                             "maxWeight": 0
                         },
@@ -13200,9 +13200,9 @@
                         "_props": {
                             "filters": [],
                             "cellsH": 1,
-                            "cellsV": 1,
+                            "cellsV": 2,
                             "maxCount": 0,
-                            "maxWeight": 0
+                            "maxWeight": 1
                         },
                         "_proto": "55d329c24bdc2d892f8b4567"
                     },
@@ -13213,9 +13213,9 @@
                         "_props": {
                             "filters": [],
                             "cellsH": 1,
-                            "cellsV": 1,
+                            "cellsV": 2,
                             "maxCount": 0,
-                            "maxWeight": 0
+                            "maxWeight": 1
                         },
                         "_proto": "55d329c24bdc2d892f8b4567"
                     },
@@ -23931,7 +23931,7 @@
                 "ExamineExperience": 10,
                 "HideEntrails": false,
                 "foodUseTime": 5,
-                "foodEffectType": "afterUse",
+                "foodEffectType": "duringUse",
                 "effects_health": {
                     "common": {
                         "value": 0,
@@ -24040,20 +24040,20 @@
                         "duration": 0
                     },
                     "reloadSpeed": {
-                        "value": 5,
-                        "percent": true,
+                        "value": 0,
+                        "percent": false,
                         "time": 3,
                         "duration": 36
                     },
                     "lootSpeed": {
-                        "value": 5,
-                        "percent": true,
+                        "value": 0,
+                        "percent": false,
                         "time": 3,
                         "duration": 36
                     },
                     "unlockSpeed": {
-                        "value": 3,
-                        "percent": true,
+                        "value": 0,
+                        "percent": false,
                         "time": 0,
                         "duration": 0
                     }
@@ -24195,8 +24195,8 @@
                 },
                 "effects_speed": {
                     "mobility": {
-                        "value": 0,
-                        "percent": false,
+                        "value": 10,
+                        "percent": true,
                         "time": 0,
                         "duration": 0
                     },
@@ -24207,8 +24207,8 @@
                         "duration": 0
                     },
                     "reloadSpeed": {
-                        "value": 1,
-                        "percent": false,
+                        "value": 10,
+                        "percent": true,
                         "time": 0,
                         "duration": 0
                     },
@@ -25332,7 +25332,7 @@
                 "medUseTime": 5,
                 "medEffectType": "duringUse",
                 "MaxHpResource": 250,
-                "hpResourceRate": 50,
+                "hpResourceRate": 10,
                 "effects_health": {
                     "common": {
                         "value": 0,
@@ -25347,7 +25347,7 @@
                         "duration": 0
                     },
                     "arm_left": {
-                        "value": -2,
+                        "value": 0,
                         "percent": false,
                         "time": 0,
                         "duration": 0
@@ -25389,8 +25389,8 @@
                         "duration": 0
                     },
                     "hydration": {
-                        "value": -5,
-                        "percent": true,
+                        "value": 0,
+                        "percent": false,
                         "time": 0,
                         "duration": 0
                     }
@@ -26434,7 +26434,7 @@
                 "durabSpawnMin": 25,
                 "durabSpawnMax": 75,
                 "isFastReload": true,
-                "RecoilForceUp": 400,
+                "RecoilForceUp": 500,
                 "RecoilForceBack": 250,
                 "Convergence": 5,
                 "RecoilAngle": 85,
@@ -26466,7 +26466,7 @@
                         "_proto": "55d4af244bdc2d962f8b4571"
                     }
                 ],
-                "CameraRecoil": 0.05,
+                "CameraRecoil": 0.1,
                 "ReloadMode": "ExternalMagazine",
                 "CenterOfImpact": 0.3,
                 "Velocity": 0,
@@ -27297,7 +27297,7 @@
                 "ShortName": "",
                 "Description": "",
                 "Weight": 0.92,
-                "BackgroundColor": "black",
+                "BackgroundColor": "red",
                 "Width": 5,
                 "Height": 2,
                 "StackMaxSize": 1,
@@ -27461,10 +27461,10 @@
                 "durabSpawnMin": 25,
                 "durabSpawnMax": 75,
                 "isFastReload": true,
-                "RecoilForceUp": 75,
-                "RecoilForceBack": 150,
+                "RecoilForceUp": 90,
+                "RecoilForceBack": 100,
                 "Convergence": 2.5,
-                "RecoilAngle": 90,
+                "RecoilAngle": 92,
                 "RecolDispersion": 25,
                 "bFirerate": 900,
                 "Ergonomics": 50,
@@ -27495,7 +27495,7 @@
                         "_proto": "55d4af244bdc2d962f8b4571"
                     }
                 ],
-                "CameraRecoil": 0.2,
+                "CameraRecoil": 0.4,
                 "ReloadMode": "ExternalMagazine",
                 "CenterOfImpact": 0.01,
                 "Velocity": 100,

@@ -106,7 +106,7 @@ function start() {
 	var port = settings.getServerSettings().port;
 
 	server.listen(port, function() {
-		console.log('EmuTarkov listening on: %s', port);
+		console.log('EXFIL Server listening on: %s', port);
 	});
 	
 	server.on('request', function(req, resp) {

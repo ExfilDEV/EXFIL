@@ -344,6 +344,60 @@
 				"upd": {
 					"StackObjectsCount": 1
 				}
+			},
+			{
+				"_id": "5.45 PS",
+				"_tpl": "56dff3afd2720bba668b4567",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"StackObjectsCount": 100
+				}
+			},
+			{
+				"_id": "mp443",
+				"_tpl": "576a581d2459771e7b1bc4f1",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"StackObjectsCount": 1
+				}
+			},
+			{
+				"_id": "9x19",
+				"_tpl": "56d59d3ad2720bdb418b4577",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"StackObjectsCount": 100
+				}
+			},
+			{
+				"_id": "mp443mag",
+				"_tpl": "576a5ed62459771e9c2096cb",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"StackObjectsCount": 1
+				}
+			},
+			{
+				"_id": "mp443maginside",
+				"_tpl": "576a5ed62459771e9c2096cb",
+				"parentId": "mp443",
+				"slotId": "mod_magazine",
+				"upd": {
+					"StackObjectsCount": 1
+				}
+			},
+			{
+				"_id": "mp443grip",
+				"_tpl": "576a63cd2459771e796e0e11",
+				"parentId": "mp443",
+				"slotId": "mod_pistol_grip",
+				"upd": {
+					"StackObjectsCount": 1
+				}
 			}
 		],
 		"barter_scheme": {
@@ -366,7 +420,7 @@
 			"svs": [
 				[
 					{
-						"count": 125000,
+						"count": 12000,
 						"_tpl": "5449016a4bdc2d6f028b456f"
 					}
 				]
@@ -406,7 +460,7 @@
 			"splint": [
 				[
 					{
-						"count": 2500,
+						"count": 400,
 						"_tpl": "5449016a4bdc2d6f028b456f"
 					}
 				]
@@ -414,7 +468,7 @@
 			"crackers": [
 				[
 					{
-						"count": 7500,
+						"count": 800,
 						"_tpl": "5449016a4bdc2d6f028b456f"
 					}
 				]
@@ -422,7 +476,7 @@
 			"iskraMre": [
 				[
 					{
-						"count": 5500,
+						"count": 500,
 						"_tpl": "5449016a4bdc2d6f028b456f"
 					}
 				]
@@ -430,7 +484,7 @@
 			"waterbottle": [
 				[
 					{
-						"count": 19000,
+						"count": 2000,
 						"_tpl": "5449016a4bdc2d6f028b456f"
 					}
 				]
@@ -446,7 +500,7 @@
 			"armyBandage": [
 				[
 					{
-						"count": 1500,
+						"count": 800,
 						"_tpl": "5449016a4bdc2d6f028b456f"
 					}
 				]
@@ -454,7 +508,7 @@
 			"grenadeRGD5": [
 				[
 					{
-						"count": 10000,
+						"count": 500,
 						"_tpl": "5449016a4bdc2d6f028b456f"
 					}
 				]
@@ -462,7 +516,7 @@
 			"grenadeF1": [
 				[
 					{
-						"count": 15000,
+						"count": 100,
 						"_tpl": "5449016a4bdc2d6f028b456f"
 					}
 				]
@@ -486,7 +540,7 @@
 			"pm9x18": [
 				[
 					{
-						"count": 15200,
+						"count": 4000,
 						"_tpl": "5449016a4bdc2d6f028b456f"
 					}
 				]
@@ -494,7 +548,7 @@
 			"pm9x18mag": [
 				[
 					{
-						"count": 1520,
+						"count": 800,
 						"_tpl": "5449016a4bdc2d6f028b456f"
 					}
 				]
@@ -510,7 +564,7 @@
 			"mp133def": [
 				[
 					{
-						"count": 75250,
+						"count": 7250,
 						"_tpl": "5449016a4bdc2d6f028b456f"
 					}
 				]
@@ -554,6 +608,38 @@
 						"_tpl": "5449016a4bdc2d6f028b456f"
 					}
 				]
+			],
+			"5.45 PS": [
+				[
+					{
+						"count": 15,
+						"_tpl": "5449016a4bdc2d6f028b456f"
+					}
+				]
+			],
+			"mp443": [
+				[
+					{
+						"count": 5000,
+						"_tpl": "5449016a4bdc2d6f028b456f"
+					}
+				]
+			],
+			"9x19": [
+				[
+					{
+						"count": 5,
+						"_tpl": "5449016a4bdc2d6f028b456f"
+					}
+				]
+			],
+			"mp443mag": [
+				[
+					{
+						"count": 1000,
+						"_tpl": "5449016a4bdc2d6f028b456f"
+					}
+				]
 			]
 		},
 		"loyal_level_items": {
@@ -581,7 +667,11 @@
 			"blackrock": 2,
 			"salewa": 2,	
 			"trizip": 3,
-			"fort": 3
+			"fort": 3,
+			"5.45 PS": 1,
+			"mp443": 1,
+			"9x19": 1,
+			"mp443mag": 1
 		}
 	}
 }
