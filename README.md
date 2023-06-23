@@ -3,7 +3,7 @@
 # What is this?
 This is the github repo for EXFIL, containing information on various subjects involving the game.
 ### What is EXFIL?
-EXFIL was originally a ROBLOX version of Escape from Tarkov, but has now evolved into a Unity game/project. EXFIL will be a singleplayer (or multiplayer) FPS extraction game with realistic and big landscapes using the Escape from Tarkov Alpha engine. We are currently modding version 0.1, the first public version of Escape from Tarkov to ever be released.
+EXFIL was originally a ROBLOX version of Escape from Tarkov, but has now evolved into a Unity game/project. EXFIL is a mod or the Escape from Tarkov Alpha. We are currently modding version 0.1, the first public version of Escape from Tarkov to ever be released.
 
 **Anything shown here is not final, and we can change it at any time.**
 
